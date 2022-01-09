@@ -1,9 +1,11 @@
 <!--?title Gauss method for solving system of linear equations -->
 
-# Gauss method for solving system of linear equations
+# Test
 
 Given a system of $n$ linear algebraic equations (SLAE) with $m$ unknowns. You are asked to solve the system: to determine if it has no solution, exactly one solution or infinite number of solutions. And in case it has at least one solution, find any of them.
 
+
+ABC
 Formally, the problem is formulated as follows: solve the system:
 
 $$a_{11} x_1 + a_{12} x_2 + \dots + a_{1m} x_m = b_1$$
@@ -24,7 +26,7 @@ $$a_{21} x_1 + a_{22} x_2 + \dots + a_{2m} x_m \equiv b_2 \pmod p$$
 $$\dots$$
 $$a_{n1} x_1 + a_{n2} x_2 + \dots + a_{nm} x_m \equiv b_n \pmod p$$
 
-## Gauss
+## Gausssdf
 
 Strictly speaking, the method described below should be called "Gauss-Jordan", or Gauss-Jordan elimination, because it is a variation of the Gauss method, described by Jordan in 1887.
 
